@@ -2,6 +2,8 @@
 
 Admin Panel built using Sanity.io
 
+[Demo](http://kickoff-sanity.sanity.studio/)
+
 ## To use
 
 - Fork or download this repository
